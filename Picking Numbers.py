@@ -7,6 +7,7 @@
 #As we can see the count of the continuation of two numbers will be our expected output . It may be count of number plus next number or number plus previous number.
 # I updated the value of max_num so that for every iteration it finds sum of present index number and next index number and updates it if it finds higher value
 # The higher value we got is our final answer
+##
 
 
 def pickingNumbers(a):
